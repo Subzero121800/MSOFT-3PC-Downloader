@@ -1,0 +1,335 @@
+product	archives
+Microsoft Edge	23063
+Redistributed OSS	8820
+Microsoft Electron	1514
+opentelemetry-collector-internal	720
+azureotelcollector	648
+otelcol-acsa	624
+Project Astoria	408
+Packet Core	346
+Avere FXT	335
+Visual Studio Emulator for Android	270
+Azure Defender For IoT	262
+otel-arrow-internal	246
+A4O EMS	211
+Azure Machine Learning Service	204
+otelcol-internal	192
+AKSHybrid	179
+Azure Sphere	167
+Azure Monitor Pipeline	100
+AzureOTelCollector	100
+cert-manager for Arc-enabled Kubernetes	97
+Azure Container Storage enabled by Azure Arc	92
+Azure Kinect SDK	90
+A4O AO5GC NF-Configurator	74
+arb-otel-collector	72
+A4O UC Platform	70
+Accessibility Insights for Android	70
+A4O UC Operations	68
+Accessibility Insights for Web	67
+Azure Arc Resource Bridge SDK	65
+Microsoft Wireless Display Adapter 3.0	61
+Azure Kubernetes CNAB Packaging Application	53
+Edge Device Image Builder	52
+Azure Monitor Pipeline Operator	47
+Azure Arc Extension Diagnostics	44
+Azure Bicep	44
+AKS Istio Addon	43
+VMWatch	42
+Azure Monitor Edge Pipeline	40
+Azure Stack Hub Partner Toolkit	40
+ARC enabled VMs on HCI	39
+Automatic cluster-local CA rotation for Certificate Management extension	39
+ECP	39
+Microsoft Wireless Display Adapter 1.0	39
+Certificate Management extension	36
+cirrus-otel-collector	36
+Visual Studio Code	35
+Network Cloud	34
+Power BI Desktop	31
+Skype for Linux	30
+Computer Vision	29
+Microsoft Wireless Display Adapter 2.0	27
+Automatic cluster-local CA rotation for cert-manager for Arc-enabled Kubernetes	26
+SQL Server	25
+Oryx	24
+otelcol-ama	24
+Microsoft Visual Studio	22
+Visual Studio Installer	22
+Accessibility Insights Linter	18
+Azure Site Recovery	18
+Blobfuse2	17
+Dynamics AX	17
+MCS US	17
+SIMon	17
+Edge Storage Accelerator	15
+Microsoft Edge DevTools	15
+Azure Kinect Body Tracking SDK	14
+Quicksilver Virtual Machines	13
+Edge Android	12
+Power Pages	12
+Connected Store	11
+Dynamics AX 7 Technical Preview Help Wiki	11
+Microsoft Defender ATP	11
+PQCrypto-VPN	11
+Skype	11
+Application Insights Java	10
+VS Code	10
+Workload IAM	10
+A4O UC Mobility	9
+Accessibility Insights for Android Service	9
+Caller's Bane	9
+CefSharp	9
+Power Automate	9
+outlook win32gql	9
+Azure IoT Connected Vehicle Platform	8
+Live Video Analytics on IoT Edge	8
+Microsoft Teams	8
+Mobile Voicemail (MVM)	8
+Web Media Extensions	8
+adutil	8
+Azure Migrate application and code assessment for Java	7
+Azure Percept	7
+Monitor Chart React	7
+PowerShell Core	7
+A4O UC Control Plane	6
+Ayalon	6
+Azure CLI	6
+Azure Functions Extension Bundle	6
+Azure IoT Operations	6
+Azure Portal App	6
+Dynamics CRM	6
+Microsoft CLI 2.0 for Azure	6
+Microsoft Information Protection SDK	6
+Visual Studio Team Services Authentication Library for Java	6
+Windows Subsystem for Linux v2	6
+1P Dependent Extension	5
+Azure App Service on Azure Stack	5
+Dynamics 365 for Finance and Operations	5
+Dynamics AX Help Wiki	5
+GDB	5
+Gradle for Java	5
+Microsoft Copilot	5
+Microsoft Dynamics AX	5
+Microsoft Visual C++ Cross-Platform Development (Linux)	5
+SSIS Scale Out Management Tool	5
+Skype Preview	5
+Windows Subsystem for Android	5
+Xbox Cloud Gaming	5
+AOI Data Product SDK - Digestion	4
+Accessibility Insights Action	4
+Advanced Threat Analytics	4
+Azure Advanced Threat Protection	4
+Azure Monitor Pipeline Controller	4
+Cognitive Services Form Recognizer	4
+Dynamics 365 Unified Service Desk	4
+Fabric Python Notebook	4
+Guardian Security Analysis Tools	4
+MySQL extension for Azure Data Studio	4
+Nexus Network Cloud	4
+Nexus Network Fabric	4
+Raw Image Extension	4
+Visual Studio Team Foundation Plugin for IntelliJ	4
+Yammer Desktop	4
+sysinternalsEBPF	4
+.NET Interactive	3
+A4O VSSF	3
+Azure Cloud HSM	3
+Azure Game Development Virtual Machine	3
+Azure tools for Java	3
+Bing Search IOS	3
+Cognitive Services Text Analytics	3
+DTrace on Windows	3
+Dragon Copilot Ambient SDK	3
+Dynamics 365 Customer Voice	3
+Edge iOS	3
+HEVC Video Extensions Installer	3
+Microsoft Advertising Editor	3
+Microsoft Connected Vehicle Platform (MCVP)	3
+Microsoft Cortana Intelligence Inventory Optimization Solution	3
+Microsoft Office	3
+Microsoft Tunnel	3
+Microsoft.FastTrack.GoogleWorkspace.Scan.SDK	3
+ONNX Runtime	3
+Office Online	3
+OneDrive Sync Service	3
+Science Engine	3
+Simplygon	3
+Test Runner for Java	3
+Threat Monitoring for SAP in Microsoft Sentinel	3
+Visual C++ CMake Tools for Linux	3
+Visual Studio - Experimental Project Alive Extension	3
+azure-ai-ml	3
+A4O Session Border Controller	2
+Address Verification Service (AVS)	2
+Autonomous Video Booth	2
+Azure Database for MySQL bindings for Azure Functions	2
+Azure Edge Devices sample modules	2
+Azure Video Analyzer on IoT Edge	2
+Blender on Windows 10	2
+Build Server for Gradle	2
+CKEditor	2
+Datazen Publisher for Windows 7	2
+Discovery App	2
+DocumentStructuringHealth	2
+GroupMe Android	2
+Lobe	2
+Microsoft Authenticator	2
+Microsoft Edge Ad Selection	2
+Microsoft Forms	2
+Microsoft Handwriting Reco Engines	2
+Microsoft Intune	2
+Microsoft Modern USB Headset	2
+Microsoft Modern Webcam	2
+Microsoft Modern Wireless Headset	2
+Microsoft Purview self-hosted integration runtime	2
+Microsoft Surface Touch and Pen Processor DLL	2
+Microsoft USB Link	2
+Microsoft Wallet	2
+Nuance Gatekeeper	2
+Nuance Media Manager	2
+Office 365 Connector for Bitbucket Server	2
+Office Mix	2
+Project Vishrambh	2
+Quantum Development Kit	2
+SQL Server Big Data Clusters	2
+Services Hub App	2
+Shopper Copilot	2
+Teacher Analytics	2
+VSCode	2
+Visual Studio Online	2
+Visual Studio Security Issue Analysis	2
+Visual Studio for Mac	2
+WebGPU	2
+WebMediaExtensions	2
+WinDbg Preview	2
+Windows Admin Center	2
+Windows Subsystem For Android	2
+asyncio	2
+iOS Remote Simulator	2
+nacl.net	2
+org.openjdk.jol	2
+outlook 7zip(1900) uncompress library	2
+outlook android	2
+pander	2
+vscode-arduino	2
+Ad Selection Key Value Service	1
+Ansible	1
+Application Insights for Docker	1
+Azure Arc Resource Bridge CLI	1
+Azure Arc for AVS	1
+Azure CycleCloud	1
+Azure IoT Edge	1
+Azure Monitor managed service for Prometheus	1
+Azure Operator Insights	1
+Azure Stream Analytics Explorer	1
+Azure information Protection	1
+BatchExplorer	1
+BizTalk Server	1
+Brltty	1
+C++ Extension for VS Code	1
+CKEditor Widget	1
+ChakraCore	1
+Chinese Handwriting Reco Engine	1
+Chromium Embedded Framework	1
+Designer	1
+Doxygen	1
+Dynamics 365 for Marketing	1
+Dynamics 365 for Talent	1
+ESLint Formatter for SARIF	1
+Family Safety	1
+Flipgrid	1
+FollowUs	1
+Forza Horizon 4	1
+GitHub Copilot Chat	1
+GitHub Solution Accelerator for Purview Custom Types Tool	1
+Go-MySQL-Driver	1
+GoogleWorkspace.SDK.Nuget	1
+Grafana Extension for Kubernetes	1
+LibRAW	1
+LibRaw	1
+Liblouis	1
+Libusb	1
+Linux Interactive Forensic Examiner	1
+Location tools	1
+MS Course 40483A Working with Non Relational Data	1
+Maven for Java	1
+Max UC	1
+Microsoft 4K wireless display adapter	1
+Microsoft Azure Storage Explorer	1
+Microsoft Azure Stream Analytics Edge	1
+Microsoft Content Integrity Web Application	1
+Microsoft Defender for individuals	1
+Microsoft Edge Ad Selection Key Value Service	1
+Microsoft Identity Broker for Linux	1
+Microsoft Translator	1
+Microsoft Virtual Academy	1
+Microsoft Visual C++ Cross-Platform Mobile Development (iOS)	1
+Microsoft Visual Studio Team Foundation Server 2017	1
+Microsoft Whiteboard (iOS)	1
+Microsoft eCDN	1
+Microsoft openocd	1
+Mixed Reality Link	1
+Neural Text-To-Speech Container	1
+Nexus	1
+Nexus Far Edge	1
+Office PowerPoint Online	1
+One-Collect	1
+OpenMcdf	1
+Pdf Previewer Lib	1
+Pull Request Merge Conflict Extension	1
+Remote Help	1
+Resource Scheduling for Dynamics	1
+RhpcBLASctl	1
+Rsync	1
+SQL Server Mobile Report Publisher	1
+Sea of Thieves	1
+Sentinel Express	1
+Sentinel VoLTE	1
+Skype Lite	1
+Spark	1
+StorSimple 5000 and 7000 Series	1
+Surface Capture APO	1
+SwiftKey	1
+System Analytics	1
+System Center Configuration Manager	1
+Unreal Pixel Streaming in Azure	1
+VM Inspector	1
+Visual C++ for Linux Development	1
+Visual Studio	1
+Visual Studio - Data Access Migration Toolkit Extension	1
+Visual Studio Android Designer	1
+Visual Studio Team Services	1
+Visual Studio Team Services Extension for JBoss and WildFly	1
+VivaSkills	1
+WinML Redistributable	1
+Windows 10	1
+Winfield	1
+Wix Toolset	1
+Xamarin SDKs for Android	1
+Xamarin for Visual Studio	1
+Xamarin.Android	1
+Xamarin.UITest	1
+aether-impl	1
+azureml-dataprep-native	1
+blink	1
+com.ibm.wala.util	1
+gdb-8.1	1
+ggalt	1
+git	1
+glmmTMB	1
+iotedgehubdev	1
+jschardet	1
+libiconv	1
+libseccomp	1
+mixed reality	1
+ms-vscode.vscode-js-profile-flame	1
+msys2	1
+ncurses	1
+org.eclipse.aether:aether-impl	1
+outlook mobile(iOS, mac and Android) with 7z(1900) uncompress	1
+outlook.com	1
+squid	1
+symbol	1
+web3-eth-abi	1
+zlib	1

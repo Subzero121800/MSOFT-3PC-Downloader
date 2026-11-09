@@ -1,0 +1,14 @@
+# mirror output, never commit
+by-product/
+catalog.tsv
+catalog.json
+manifest.json
+state.txt
+state.json
+worklist.tsv
+mirror.log
+*.part
+.urls.tmp
+run.out
+.DS_Store
+Thumbs.db
